@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/Version-v1.0-orange.svg" alt="Version: 1.0">
 </p>
 
@@ -12,6 +11,7 @@
 </p>
 
 ---
+https://mp.weixin.qq.com/s/HgCQr3mkBfdkerVFFxc6qQ
 
 ## 📋 项目简介
 
